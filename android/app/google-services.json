@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561762079336",
+    "firebase_url": "https://lojaflutter-3d30d.firebaseio.com",
+    "project_id": "lojaflutter-3d30d",
+    "storage_bucket": "lojaflutter-3d30d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561762079336:android:1da2c512b1d510d6",
+        "android_client_info": {
+          "package_name": "br.com.luiscamara.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561762079336-9thf6t2iqjug8ctpbcn2ttpho5fhhlkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtpiWa1G9d28rbg2SmU3oMR_V9Nj2lHTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561762079336-9thf6t2iqjug8ctpbcn2ttpho5fhhlkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
